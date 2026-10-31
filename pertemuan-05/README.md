@@ -16,3 +16,12 @@ Dokumentasi pengembangan halaman web pada P5, meliputi JavaScript, DOM, event li
 - Validasi Formulir: Pesan kesalahan muncul sesuai aturan jika data tidak lengkap/salah.
 - Form Berhasil: Pesan keberhasilan muncul jika seluruh data valid.
 - DevTools: Tidak ditemukan galat pada tab Console.
+
+## Riwayat Pengembangan
+- Siapkan baseline P5 dari artefak P4
+- Hubungkan JavaScript eksternal ke HTML
+- Tambahkan penanganan event click
+- Tambahkan penanganan event submit
+- Tambahkan penanganan event reset
+- Perbaiki ID elemen HTML dan sesuaikan script.js sesuai modul P5
+- Selesaikan pengujian dan perbaikan P5
