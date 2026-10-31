@@ -13,3 +13,11 @@ Melanjutkan proyek dari P5 untuk menerapkan pemrograman PHP di sisi peladen.
 
 ## Hasil Pengujian
 - Halaman berhasil diakses melalui URL localhost (http://localhost\pwd\2627o\ti1a\2611500002-PWB-TI1A-2627\pertemuan-06) tanpa ada error.
+
+## Tambahan Variabel & Logika PHP
+- Menambahkan variabel data mahasiswa ($nim, $namaMahasiswa, $programStudi, dll).
+- Menambahkan konstanta NAMA_MATA_KULIAH dan PROFIL_GITHUB.
+- Menambahkan logika hitung sisa semester dan percabangan (if-else, ternary, switch-case).
+
+## Pengujian
+- Menjalankan halaman di peramban, tidak ada error PHP yang muncul (skrip berjalan bersih di background).

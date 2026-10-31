@@ -71,7 +71,7 @@ switch ($programStudi) {
         </section>
 
         <section id="about">
-            <h2>Tentang Saya</h2>
+            <h2>Tentang Sayaa</h2>
             <h3>Profil Singkat</h3>
             <p>Program Studi: <?php echo $namaProdi . " (" . $programStudi . ")"; ?></p>
             <p>Fokus program studi: <?php echo $fokusProgramStudi; ?></p>
