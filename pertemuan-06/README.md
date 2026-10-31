@@ -21,3 +21,12 @@ Melanjutkan proyek dari P5 untuk menerapkan pemrograman PHP di sisi peladen.
 
 ## Pengujian
 - Menjalankan halaman di peramban, tidak ada error PHP yang muncul (skrip berjalan bersih di background).
+
+## Tampilan Dinamis
+- Menampilkan nama mahasiswa, mata kuliah, dan tahun akademik di bagian Home menggunakan echo dan print.
+- Mengubah tautan profil GitHub menggunakan konstanta PROFIL_GITHUB.
+- Menampilkan tahun dinamis pada footer menggunakan fungsi date("Y").
+
+## Pengujian
+- Nama dan data dinamis berhasil muncul di halaman Home dan Footer.
+- Tautan GitHub bisa diklik dan mengarah ke URL username yang benar.
